@@ -2,9 +2,9 @@ class Yb < Formula
   desc ''
   homepage 'https://dl.equinox.io/yourbase/yb'
 
-  url 'https://bin.equinox.io/a/3PZdF7d2J2y/yb-0.0.20-darwin-amd64.tar.gz'
-  sha256 '17b1da500430704a9245b89c92978e2413a3d5114329a0430b64ee2aec06c013'
-  version '0.0.20'
+  url 'https://bin.equinox.io/a/fAVfqoYWvK/yb-0.0.21-darwin-amd64.tar.gz'
+  sha256 'a89bb26aa9a1f691bd4a48e44b6aed9e69fc8d3f70bb98d64a1942af1500b3ee'
+  version '0.0.21'
 
   def install
     bin.install 'yb'
